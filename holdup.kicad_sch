@@ -1081,6 +1081,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 74.93) (xy 93.98 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06197c4c-0ad7-448f-9f29-2b217f55decc")
+	)
+	(wire
+		(pts
 			(xy 180.34 92.71) (xy 177.8 92.71)
 		)
 		(stroke
@@ -1281,6 +1291,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 74.93) (xy 93.98 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2de1e71-cbe4-4793-8170-c2fc314a64da")
+	)
+	(wire
+		(pts
 			(xy 104.14 82.55) (xy 104.14 95.25)
 		)
 		(stroke
@@ -1309,19 +1329,9 @@
 		)
 		(uuid "acf84d5b-d5b8-41fc-bf78-0751a9a086ed")
 	)
-	(wire
-		(pts
-			(xy 93.98 73.66) (xy 93.98 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "feca023d-942f-4b88-915f-c5a86a379182")
-	)
 	(global_label "5V_LOGIC"
-		(shape input)
-		(at 93.98 73.66 0)
+		(shape output)
+		(at 96.52 74.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1331,7 +1341,7 @@
 		)
 		(uuid "13e9e324-eb07-4cd5-8d70-699035897337")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.7343 73.66 0)
+			(at 108.2743 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1344,7 +1354,7 @@
 		)
 	)
 	(global_label "BOOST_EN"
-		(shape input)
+		(shape output)
 		(at 177.8 92.71 180)
 		(fields_autoplaced yes)
 		(effects
@@ -1451,7 +1461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23d226c1-d6e7-4836-8761-31a27190871a")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 173.99 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1505,6 +1515,94 @@
 				)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 173.99 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5aca1914-fac1-45c0-8d63-d71efa73a4b8")
 		)
@@ -1517,7 +1615,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -1535,7 +1633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3276e84c-451a-4c64-86ab-10eb91529f01")
-		(property "Reference" "R2"
+		(property "Reference" "R20"
 			(at 83.82 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1557,7 +1655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 79.502 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -1590,6 +1688,94 @@
 				)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 81.28 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "705102d7-8037-4ba6-9753-2d8267efb5e0")
 		)
@@ -1599,7 +1785,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "R2")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -1616,7 +1802,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f9b6bdf-b882-4dde-8fec-5af1501e75b6")
-		(property "Reference" "R4"
+		(property "Reference" "R22"
 			(at 110.49 98.298 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1636,7 +1822,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 110.49 101.092 90)
 			(hide yes)
 			(show_name no)
@@ -1669,6 +1855,94 @@
 				)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 110.49 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "50e3fd83-baec-4409-b21d-00d995cf838c")
 		)
@@ -1678,7 +1952,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "R4")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -1696,7 +1970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51307b25-7bbb-4fe6-8fe1-2e594cd2c415")
-		(property "Reference" "R3"
+		(property "Reference" "R21"
 			(at 110.49 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1716,7 +1990,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 110.49 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -1749,6 +2023,94 @@
 				)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "401a1d32-bfe3-45bb-a81c-5979993bd8fb")
 		)
@@ -1758,7 +2120,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "R3")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -1775,7 +2137,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "70f22ba9-04aa-4fd7-b727-80296271c2bc")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 134.62 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1795,7 +2157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TLV3012AIDBVR:SOT95P280X145-6N"
+		(property "Footprint" "footprints:SOT95P280X145-6N"
 			(at 134.62 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -1925,6 +2287,94 @@
 				(justify bottom)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 134.62 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "eae6bf9a-6c4e-400c-9700-f8b21ee88fc6")
 		)
@@ -1946,7 +2396,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "U4")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -1964,7 +2414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a17bfa9-a200-4c5b-a962-a1895075b104")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR034"
 			(at 81.28 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2024,7 +2474,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "#PWR011")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -2042,7 +2492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae1999eb-8cf0-4bc5-881e-b7f08c6e161b")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR035"
 			(at 158.75 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2103,7 +2553,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "#PWR08")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -2121,7 +2571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8f20023-c0af-42e1-93b7-427ac0b9ffb6")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR036"
 			(at 200.66 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2182,7 +2632,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "#PWR013")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -2200,7 +2650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9021725-4d53-47ad-9e21-45f15fe80ed8")
-		(property "Reference" "R1"
+		(property "Reference" "R19"
 			(at 83.82 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2222,7 +2672,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 79.502 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -2255,6 +2705,94 @@
 				)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "96717517-67d3-471e-9422-f4348eac6ae2")
 		)
@@ -2264,7 +2802,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "R1")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -2282,7 +2820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e410a2c6-630c-4ec0-a682-eb55f8740d07")
-		(property "Reference" "D2"
+		(property "Reference" "D4"
 			(at 96.52 78.4224 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2304,7 +2842,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:DIOM5436X330N"
 			(at 93.98 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2315,7 +2853,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "LSM115JE3/TR13"
 			(at 93.98 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2337,6 +2875,94 @@
 				)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 93.98 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c2d5868-e50f-43ae-ab34-96aefe9efe12")
 		)
@@ -2346,7 +2972,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2363,7 +2989,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fcaba7b5-3e7e-4d13-b778-8c8823b651c2")
-		(property "Reference" "R7"
+		(property "Reference" "R23"
 			(at 190.246 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2383,7 +3009,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 190.5 89.408 90)
 			(hide yes)
 			(show_name no)
@@ -2416,6 +3042,94 @@
 				)
 			)
 		)
+		(property "Arrow Part Number" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 190.5 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1188055d-97ba-4706-b192-6b46b2709615")
 		)
@@ -2425,7 +3139,7 @@
 		(instances
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5/ec32d28e-baf1-4e35-a006-88935f513511"
-					(reference "R7")
+					(reference "R23")
 					(unit 1)
 				)
 			)
