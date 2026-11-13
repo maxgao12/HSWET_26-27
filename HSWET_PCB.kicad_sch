@@ -2128,7 +2128,7 @@
 	)
 	(text "*R_SHUNT value needs to be checked\n\nCurrent + Voltage Sensor \nIIC addres: 0x40"
 		(exclude_from_sim no)
-		(at 304.546 137.414 0)
+		(at 291.846 110.744 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2137,148 +2137,152 @@
 		(uuid "2ef6c138-0c5c-4c32-950d-854e12cce720")
 	)
 	(junction
-		(at 247.65 161.29)
+		(at 234.95 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "027fbe07-01e2-48bc-b99c-f102bac6a515")
 	)
 	(junction
-		(at 208.28 163.83)
+		(at 195.58 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "413f905c-a48f-470a-8265-b9f13d61a5c4")
 	)
 	(junction
-		(at 266.7 130.81)
+		(at 254 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d172593-7772-4f8c-831f-1ca1d04880f8")
 	)
 	(junction
-		(at 208.28 153.67)
+		(at 195.58 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55446024-c844-4b48-902e-3d5d2cab8662")
 	)
 	(junction
-		(at 256.54 130.81)
+		(at 243.84 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85793cfb-a85f-4a35-a762-5fbd50662125")
 	)
 	(junction
-		(at 256.54 148.59)
+		(at 243.84 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "88ed89b8-658a-4e9f-b948-d1c26664c2e9")
 	)
 	(junction
-		(at 260.35 153.67)
+		(at 247.65 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "98ccf952-47c8-486a-9b6b-3e299526cb9f")
 	)
 	(junction
-		(at 250.19 130.81)
+		(at 237.49 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6ebe277-6e6c-4a68-a25d-539566fe06c0")
 	)
 	(junction
-		(at 247.65 171.45)
+		(at 234.95 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3fc3462-049b-476b-a3fc-71a517229439")
 	)
 	(junction
-		(at 260.35 130.81)
+		(at 247.65 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdbdc00c-2b1c-4828-bf52-dfee1c0d8b11")
 	)
 	(no_connect
-		(at 142.24 200.66)
+		(at 125.73 131.445)
 		(uuid "1276a37e-c6dc-4407-88ed-74a9fdd2da0f")
 	)
 	(no_connect
-		(at 212.09 158.75)
+		(at 199.39 132.08)
 		(uuid "58fea842-7432-446b-a4fe-bc435f1922fa")
 	)
 	(no_connect
-		(at 167.64 180.34)
+		(at 151.13 111.125)
 		(uuid "696f044e-b516-471f-bfc4-eaef9052a7ee")
 	)
 	(no_connect
-		(at 142.24 187.96)
+		(at 125.73 118.745)
 		(uuid "709d0c27-c253-4193-a24c-b8192fe92bc3")
 	)
 	(no_connect
-		(at 167.64 190.5)
+		(at 151.13 121.285)
 		(uuid "71e13392-b071-4456-a2c0-56fe285c95e0")
 	)
 	(no_connect
-		(at 142.24 175.26)
+		(at 125.73 106.045)
 		(uuid "747cba11-3fe7-403f-a587-b67f332c2050")
 	)
 	(no_connect
-		(at 212.09 168.91)
+		(at 199.39 142.24)
 		(uuid "77bd88e3-c94e-460f-983e-3ceff9909c46")
 	)
 	(no_connect
-		(at 142.24 177.8)
+		(at 125.73 108.585)
 		(uuid "7aa90072-1892-4f35-8ef6-76176c977c51")
 	)
 	(no_connect
-		(at 167.64 203.2)
+		(at 151.13 133.985)
 		(uuid "7f9f7f97-3a8f-40d4-939b-32f5738c5444")
 	)
 	(no_connect
-		(at 142.24 210.82)
+		(at 125.73 141.605)
 		(uuid "87c2010e-1acf-48fd-b98b-2d9158759941")
 	)
 	(no_connect
-		(at 167.64 182.88)
+		(at 125.73 123.825)
+		(uuid "946ffe89-ba7a-4e5b-948e-63bf718e6205")
+	)
+	(no_connect
+		(at 151.13 113.665)
 		(uuid "992ffd55-7fa9-42e5-9ed5-5ec278d6e4eb")
 	)
 	(no_connect
-		(at 167.64 198.12)
+		(at 151.13 128.905)
 		(uuid "ab021adf-e0b5-477c-a475-2ba92cd43ff6")
 	)
 	(no_connect
-		(at 167.64 200.66)
+		(at 151.13 131.445)
 		(uuid "b30c7640-5fdc-416a-8fc8-6ebe653f6793")
 	)
 	(no_connect
-		(at 212.09 166.37)
+		(at 199.39 139.7)
 		(uuid "bcb49968-cf6a-423a-8900-a345e40faa85")
 	)
 	(no_connect
-		(at 142.24 198.12)
+		(at 125.73 128.905)
 		(uuid "bd38988f-eb97-4f1c-8f47-a779df603b39")
 	)
 	(no_connect
-		(at 157.48 170.18)
+		(at 140.97 100.965)
 		(uuid "cfbca610-3d81-4e16-b76e-c6529bffe3bd")
 	)
 	(no_connect
-		(at 152.4 170.18)
+		(at 135.89 100.965)
 		(uuid "d136ce6a-ecd1-4f2c-8719-23c143bb5b84")
 	)
 	(no_connect
-		(at 142.24 185.42)
+		(at 125.73 116.205)
 		(uuid "eb635b9f-9b23-4922-ab45-27303969c963")
 	)
 	(no_connect
-		(at 212.09 156.21)
+		(at 199.39 129.54)
 		(uuid "f0ba996c-441f-4bc4-8fac-ccd34c4b6af8")
 	)
 	(no_connect
-		(at 212.09 173.99)
+		(at 199.39 147.32)
 		(uuid "f87d1b31-1683-4560-90f1-cadc95596ce9")
 	)
 	(wire
 		(pts
-			(xy 250.19 130.81) (xy 250.19 133.35)
+			(xy 237.49 104.14) (xy 237.49 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2288,7 +2292,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 220.98) (xy 154.94 224.79)
+			(xy 138.43 151.765) (xy 138.43 155.575)
 		)
 		(stroke
 			(width 0)
@@ -2298,7 +2302,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 140.97) (xy 250.19 143.51)
+			(xy 237.49 114.3) (xy 237.49 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2308,7 +2312,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 213.36) (xy 219.71 213.36)
+			(xy 233.68 71.12) (xy 236.22 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2318,7 +2322,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 153.67) (xy 208.28 153.67)
+			(xy 187.96 127) (xy 195.58 127)
 		)
 		(stroke
 			(width 0)
@@ -2328,7 +2332,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 215.9) (xy 228.6 215.9)
+			(xy 243.84 73.66) (xy 245.11 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2338,7 +2342,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 153.67) (xy 212.09 153.67)
+			(xy 195.58 127) (xy 199.39 127)
 		)
 		(stroke
 			(width 0)
@@ -2348,7 +2352,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 210.82) (xy 219.71 210.82)
+			(xy 233.68 68.58) (xy 236.22 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2358,7 +2362,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 163.83) (xy 212.09 163.83)
+			(xy 195.58 137.16) (xy 199.39 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2368,7 +2372,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 130.81) (xy 250.19 130.81)
+			(xy 199.39 104.14) (xy 237.49 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2378,7 +2382,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 130.81) (xy 266.7 130.81)
+			(xy 247.65 104.14) (xy 254 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2388,7 +2392,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 208.28) (xy 228.6 208.28)
+			(xy 243.84 66.04) (xy 245.11 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2398,7 +2402,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 203.2) (xy 228.6 203.2)
+			(xy 238.76 60.96) (xy 245.11 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2408,7 +2412,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 171.45) (xy 250.19 171.45)
+			(xy 234.95 144.78) (xy 237.49 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2418,7 +2422,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 130.81) (xy 271.78 130.81)
+			(xy 254 104.14) (xy 259.08 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2428,7 +2432,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 200.66) (xy 228.6 200.66)
+			(xy 238.76 58.42) (xy 245.11 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2438,7 +2442,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 166.37) (xy 172.72 166.37)
+			(xy 153.67 97.155) (xy 156.21 97.155)
 		)
 		(stroke
 			(width 0)
@@ -2448,7 +2452,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 130.81) (xy 260.35 146.05)
+			(xy 247.65 104.14) (xy 247.65 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2458,7 +2462,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 195.58) (xy 142.24 195.58)
+			(xy 124.46 126.365) (xy 125.73 126.365)
 		)
 		(stroke
 			(width 0)
@@ -2468,7 +2472,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 130.81) (xy 250.19 130.81)
+			(xy 243.84 104.14) (xy 237.49 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2478,7 +2482,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 130.81) (xy 256.54 140.97)
+			(xy 243.84 104.14) (xy 243.84 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2488,7 +2492,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 130.81) (xy 266.7 133.35)
+			(xy 254 104.14) (xy 254 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2498,7 +2502,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 130.81) (xy 256.54 130.81)
+			(xy 247.65 104.14) (xy 243.84 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2508,7 +2512,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 148.59) (xy 266.7 148.59)
+			(xy 234.95 121.92) (xy 254 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2518,7 +2522,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 215.9) (xy 219.71 215.9)
+			(xy 233.68 73.66) (xy 236.22 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2528,7 +2532,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 171.45) (xy 247.65 173.99)
+			(xy 234.95 144.78) (xy 234.95 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2538,7 +2542,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 195.58) (xy 228.6 195.58)
+			(xy 236.22 53.34) (xy 245.11 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2548,7 +2552,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 213.36) (xy 228.6 213.36)
+			(xy 243.84 71.12) (xy 245.11 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2558,7 +2562,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 153.67) (xy 266.7 153.67)
+			(xy 247.65 127) (xy 254 127)
 		)
 		(stroke
 			(width 0)
@@ -2568,7 +2572,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 161.29) (xy 250.19 161.29)
+			(xy 234.95 134.62) (xy 237.49 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2578,7 +2582,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 153.67) (xy 208.28 156.21)
+			(xy 195.58 127) (xy 195.58 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2588,7 +2592,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 161.29) (xy 247.65 163.83)
+			(xy 234.95 134.62) (xy 234.95 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2598,7 +2602,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 163.83) (xy 208.28 163.83)
+			(xy 187.96 137.16) (xy 195.58 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2608,7 +2612,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 143.51) (xy 247.65 143.51)
+			(xy 237.49 116.84) (xy 234.95 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2618,7 +2622,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 198.12) (xy 228.6 198.12)
+			(xy 236.22 55.88) (xy 245.11 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2628,7 +2632,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 143.51) (xy 212.09 130.81)
+			(xy 199.39 116.84) (xy 199.39 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2638,7 +2642,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 210.82) (xy 228.6 210.82)
+			(xy 243.84 68.58) (xy 245.11 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2648,7 +2652,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 166.37) (xy 160.02 170.18)
+			(xy 143.51 97.155) (xy 143.51 100.965)
 		)
 		(stroke
 			(width 0)
@@ -2658,7 +2662,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 153.67) (xy 260.35 153.67)
+			(xy 234.95 127) (xy 247.65 127)
 		)
 		(stroke
 			(width 0)
@@ -2668,7 +2672,7 @@
 	)
 	(global_label "TURB_LOAD"
 		(shape output)
-		(at 200.66 163.83 180)
+		(at 187.96 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2678,7 +2682,7 @@
 		)
 		(uuid "015039d3-799c-425d-915e-5a6560aa12d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.1519 163.83 0)
+			(at 174.4519 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2692,7 +2696,7 @@
 	)
 	(global_label "DAC_SCK"
 		(shape input)
-		(at 217.17 210.82 180)
+		(at 233.68 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2702,7 +2706,7 @@
 		)
 		(uuid "09457c50-2815-436f-a955-31ce580193e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 205.8391 210.82 0)
+			(at 222.3491 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2716,7 +2720,7 @@
 	)
 	(global_label "DAC_SCK"
 		(shape input)
-		(at 142.24 213.36 180)
+		(at 125.73 144.145 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2726,7 +2730,7 @@
 		)
 		(uuid "0a54d5b6-7087-4689-9336-30f91260554c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.9091 213.36 0)
+			(at 114.3991 144.145 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2740,7 +2744,7 @@
 	)
 	(global_label "TURB_PWR"
 		(shape input)
-		(at 200.66 153.67 180)
+		(at 187.96 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2750,7 +2754,7 @@
 		)
 		(uuid "0b992c15-57c3-467d-9eb3-ceaffca8d76d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.8777 153.67 0)
+			(at 175.1777 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2764,7 +2768,7 @@
 	)
 	(global_label "TURB_PWR"
 		(shape input)
-		(at 212.09 148.59 180)
+		(at 199.39 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2774,7 +2778,7 @@
 		)
 		(uuid "13c8bd7b-aa07-4bb1-8444-67a61e920c42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.3077 148.59 0)
+			(at 186.6077 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2788,7 +2792,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 167.64 208.28 0)
+		(at 151.13 139.065 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2798,7 +2802,7 @@
 		)
 		(uuid "1df133e0-2d7a-4628-84cc-0520d0cbc196")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 174.1328 208.28 0)
+			(at 157.6228 139.065 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2812,7 +2816,7 @@
 	)
 	(global_label "5V_ACT"
 		(shape input)
-		(at 55.88 128.27 180)
+		(at 128.905 66.675 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2822,7 +2826,7 @@
 		)
 		(uuid "33dd5eb5-c6cc-4757-a2bc-8bba51541237")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.3029 128.27 0)
+			(at 119.3279 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2836,7 +2840,7 @@
 	)
 	(global_label "DAC_CS"
 		(shape input)
-		(at 217.17 215.9 180)
+		(at 233.68 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2846,7 +2850,7 @@
 		)
 		(uuid "39e877f5-c3e1-4c02-b5f0-cd49d5c73b99")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 207.1091 215.9 0)
+			(at 223.6191 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2860,7 +2864,7 @@
 	)
 	(global_label "TURB_DIV"
 		(shape input)
-		(at 167.64 210.82 0)
+		(at 151.13 141.605 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2870,7 +2874,7 @@
 		)
 		(uuid "429294c3-0d58-4b5a-b57e-b193ccbc9c3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.3943 210.82 0)
+			(at 162.8843 141.605 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2884,7 +2888,7 @@
 	)
 	(global_label "VBANK"
 		(shape input)
-		(at 55.88 134.62 180)
+		(at 128.905 73.025 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2894,7 +2898,7 @@
 		)
 		(uuid "440ecfcb-0662-4d52-9a0d-9ede104cfadd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.8471 134.62 0)
+			(at 119.8721 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2908,7 +2912,7 @@
 	)
 	(global_label "5V_LOGIC"
 		(shape input)
-		(at 172.72 166.37 0)
+		(at 156.21 97.155 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2918,7 +2922,7 @@
 		)
 		(uuid "4c4baab3-d27b-449c-bedf-b18d7a9ba1f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.4743 166.37 0)
+			(at 167.9643 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2932,7 +2936,7 @@
 	)
 	(global_label "LIN_ACT"
 		(shape input)
-		(at 86.36 128.27 180)
+		(at 159.385 66.675 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2942,7 +2946,7 @@
 		)
 		(uuid "4f9a2fa4-1109-4668-81b6-6b35e1489078")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.1176 128.27 0)
+			(at 149.1426 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2956,7 +2960,7 @@
 	)
 	(global_label "5V_LOGIC"
 		(shape input)
-		(at 227.33 208.28 180)
+		(at 243.84 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2966,7 +2970,7 @@
 		)
 		(uuid "5890c48b-0d54-4f11-880a-71106675b468")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.5757 208.28 0)
+			(at 232.0857 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2980,7 +2984,7 @@
 	)
 	(global_label "5V_LOGIC"
 		(shape input)
-		(at 55.88 121.92 180)
+		(at 128.905 60.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2990,7 +2994,7 @@
 		)
 		(uuid "58a4fbfb-a469-4dbe-bea6-bb3f4d4910fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.1257 121.92 0)
+			(at 117.1507 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3004,7 +3008,7 @@
 	)
 	(global_label "ACT_5V_F"
 		(shape input)
-		(at 219.71 198.12 180)
+		(at 236.22 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3014,7 +3018,7 @@
 		)
 		(uuid "5934b64d-548e-4a31-abc9-a2242f7450ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 208.0767 198.12 0)
+			(at 224.5867 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3028,7 +3032,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 167.64 205.74 0)
+		(at 151.13 136.525 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3038,7 +3042,7 @@
 		)
 		(uuid "715a602f-3953-4786-ac54-439c51bd7108")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 174.1933 205.74 0)
+			(at 157.6833 136.525 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3052,7 +3056,7 @@
 	)
 	(global_label "ACT_SENSE"
 		(shape input)
-		(at 167.64 195.58 0)
+		(at 151.13 126.365 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3062,7 +3066,7 @@
 		)
 		(uuid "72a04b1a-3c6e-46b6-ad29-8ded86278f4c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.9665 195.58 0)
+			(at 164.4565 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3074,9 +3078,9 @@
 			)
 		)
 	)
-	(global_label "ENC"
+	(global_label "ENCODER"
 		(shape output)
-		(at 222.25 203.2 180)
+		(at 238.76 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3086,7 +3090,7 @@
 		)
 		(uuid "7663d73d-082e-4718-bf03-69e7409ca32e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.5153 203.2 0)
+			(at 227.0058 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3100,7 +3104,7 @@
 	)
 	(global_label "5V_LOGIC"
 		(shape input)
-		(at 271.78 130.81 0)
+		(at 259.08 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3110,7 +3114,7 @@
 		)
 		(uuid "8c7529e4-7137-49a4-85f2-9d8e3ae7e244")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.5343 130.81 0)
+			(at 270.8343 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3124,7 +3128,7 @@
 	)
 	(global_label "DAC_SDI"
 		(shape input)
-		(at 217.17 213.36 180)
+		(at 233.68 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3134,7 +3138,7 @@
 		)
 		(uuid "93ec3652-9595-4b9b-b605-c1fa67bafda7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.5043 213.36 0)
+			(at 223.0143 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3148,7 +3152,7 @@
 	)
 	(global_label "VIN"
 		(shape input)
-		(at 55.88 115.57 180)
+		(at 128.905 53.975 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3158,7 +3162,7 @@
 		)
 		(uuid "9fb0bc77-246d-4f1e-a3a2-35238b6f4dec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.8709 115.57 0)
+			(at 122.8959 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3172,7 +3176,7 @@
 	)
 	(global_label "DAC_CS"
 		(shape input)
-		(at 142.24 203.2 180)
+		(at 125.73 133.985 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3182,7 +3186,7 @@
 		)
 		(uuid "a80dd00b-6ac9-45be-b295-ca44da7b727d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 132.1791 203.2 0)
+			(at 115.6691 133.985 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3196,7 +3200,7 @@
 	)
 	(global_label "ENC"
 		(shape input)
-		(at 86.36 134.62 180)
+		(at 159.385 73.025 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3206,7 +3210,7 @@
 		)
 		(uuid "b0558f69-511d-4663-a2b9-35786377539d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.6253 134.62 0)
+			(at 152.6503 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3220,7 +3224,7 @@
 	)
 	(global_label "ENCODER"
 		(shape input)
-		(at 142.24 182.88 180)
+		(at 125.73 113.665 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3230,7 +3234,7 @@
 		)
 		(uuid "bbca2f2f-46db-4b07-899a-fd27a53dda25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.4858 182.88 0)
+			(at 113.9758 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3242,9 +3246,9 @@
 			)
 		)
 	)
-	(global_label "SDA_INA"
+	(global_label "SDA"
 		(shape input)
-		(at 266.7 148.59 0)
+		(at 254 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3254,7 +3258,7 @@
 		)
 		(uuid "c2d4bd2e-01c7-4577-9e92-573a843ee271")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.2448 148.59 0)
+			(at 260.5533 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3268,7 +3272,7 @@
 	)
 	(global_label "VBANK_DIV"
 		(shape input)
-		(at 167.64 213.36 0)
+		(at 151.13 144.145 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3278,7 +3282,7 @@
 		)
 		(uuid "ce07b16c-bd13-4576-a1c6-35d61b884946")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.6039 213.36 0)
+			(at 164.0939 144.145 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3292,7 +3296,7 @@
 	)
 	(global_label "TURB_PWR"
 		(shape input)
-		(at 86.36 121.92 180)
+		(at 159.385 60.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3302,7 +3306,7 @@
 		)
 		(uuid "cf4ed699-ba4e-4154-99b1-f3f3a4efe8e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.5777 121.92 0)
+			(at 146.6027 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3316,7 +3320,7 @@
 	)
 	(global_label "HOLDUP"
 		(shape output)
-		(at 140.97 195.58 180)
+		(at 124.46 126.365 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3326,7 +3330,7 @@
 		)
 		(uuid "db27c440-aa47-4a48-a726-6ab314ba1f1a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.4252 195.58 0)
+			(at 113.9152 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3340,7 +3344,7 @@
 	)
 	(global_label "DAC_SDI"
 		(shape input)
-		(at 142.24 208.28 180)
+		(at 125.73 139.065 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3350,7 +3354,7 @@
 		)
 		(uuid "f131a0eb-9c02-4109-8a2d-5b6ccb1361f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.5743 208.28 0)
+			(at 115.0643 139.065 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3364,7 +3368,7 @@
 	)
 	(global_label "LIN_ACT"
 		(shape input)
-		(at 222.25 200.66 180)
+		(at 238.76 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3374,7 +3378,7 @@
 		)
 		(uuid "f411e9ba-91a2-4231-9371-a13460eb8127")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.0076 200.66 0)
+			(at 228.5176 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3388,7 +3392,7 @@
 	)
 	(global_label "LIN_ACT"
 		(shape input)
-		(at 142.24 190.5 180)
+		(at 125.73 121.285 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3398,7 +3402,7 @@
 		)
 		(uuid "f4471070-86a5-47d5-b507-074bb8a05f4b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.9976 190.5 0)
+			(at 115.4876 121.285 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3410,9 +3414,9 @@
 			)
 		)
 	)
-	(global_label "SCL_INA"
+	(global_label "SCL"
 		(shape input)
-		(at 266.7 153.67 0)
+		(at 254 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3422,7 +3426,7 @@
 		)
 		(uuid "fa448796-3a4d-4278-a558-a3f408a340b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.1843 153.67 0)
+			(at 260.4928 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3436,7 +3440,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 128.27 270)
+		(at 192.405 66.675 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3447,7 +3451,7 @@
 		(fields_autoplaced yes)
 		(uuid "009ca8a7-8fec-4475-b178-fcfd7812575c")
 		(property "Reference" "#PWR06"
-			(at 113.03 128.27 0)
+			(at 186.055 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3458,7 +3462,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 128.2699 90)
+			(at 188.595 66.6749 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3469,7 +3473,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 128.27 0)
+			(at 192.405 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3480,7 +3484,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 128.27 0)
+			(at 192.405 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3491,7 +3495,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 128.27 0)
+			(at 192.405 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3515,7 +3519,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 233.68 198.12 0)
+		(at 250.19 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3526,7 +3530,7 @@
 		(fields_autoplaced yes)
 		(uuid "02245951-b6cc-4fd5-90d3-08d9d2a178cc")
 		(property "Reference" "J1"
-			(at 236.22 198.1199 0)
+			(at 252.73 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3537,7 +3541,7 @@
 			)
 		)
 		(property "Value" "turbine bus"
-			(at 236.22 200.6599 0)
+			(at 252.73 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3548,7 +3552,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3559,7 +3563,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3570,7 +3574,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3581,7 +3585,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3592,7 +3596,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3603,7 +3607,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3614,7 +3618,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3625,7 +3629,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3636,7 +3640,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3647,7 +3651,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3658,7 +3662,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 233.68 198.12 0)
+			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3691,7 +3695,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 55.88 128.27 270)
+		(at 128.905 66.675 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3702,7 +3706,7 @@
 		(fields_autoplaced yes)
 		(uuid "0b6e630c-5db5-439a-b9d3-5b5ae2950491")
 		(property "Reference" "TP3"
-			(at 60.96 126.9999 90)
+			(at 133.985 65.4049 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3713,7 +3717,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 60.96 129.5399 90)
+			(at 133.985 67.9449 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3724,7 +3728,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 55.88 133.35 0)
+			(at 128.905 71.755 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3735,7 +3739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 133.35 0)
+			(at 128.905 71.755 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3746,7 +3750,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 55.88 128.27 0)
+			(at 128.905 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3757,7 +3761,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3768,7 +3772,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3779,7 +3783,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3790,7 +3794,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3801,7 +3805,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3812,7 +3816,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3823,7 +3827,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3834,7 +3838,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 55.88 128.27 90)
+			(at 128.905 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3858,7 +3862,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 121.92 134.62 270)
+		(at 194.945 73.025 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3869,7 +3873,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c270548-8507-45f9-a0e3-4e8b61497dbf")
 		(property "Reference" "H4"
-			(at 125.73 133.3499 90)
+			(at 198.755 71.7549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3880,7 +3884,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 125.73 135.8899 90)
+			(at 198.755 74.2949 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3891,7 +3895,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
-			(at 121.92 134.62 0)
+			(at 194.945 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3902,7 +3906,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 134.62 0)
+			(at 194.945 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3913,7 +3917,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 121.92 134.62 0)
+			(at 194.945 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3937,7 +3941,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 86.36 121.92 270)
+		(at 159.385 60.325 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3948,7 +3952,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c790576-d1c3-407e-b124-ec51925bbde0")
 		(property "Reference" "TP7"
-			(at 91.44 120.6499 90)
+			(at 164.465 59.0549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3959,7 +3963,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 91.44 123.1899 90)
+			(at 164.465 61.5949 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3970,7 +3974,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 86.36 127 0)
+			(at 159.385 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3981,7 +3985,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 127 0)
+			(at 159.385 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3992,7 +3996,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 86.36 121.92 0)
+			(at 159.385 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4003,7 +4007,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4014,7 +4018,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4025,7 +4029,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4036,7 +4040,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4047,7 +4051,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4058,7 +4062,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4069,7 +4073,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4080,7 +4084,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 86.36 121.92 90)
+			(at 159.385 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4104,7 +4108,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 86.36 134.62 270)
+		(at 159.385 73.025 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4115,7 +4119,7 @@
 		(fields_autoplaced yes)
 		(uuid "0ea794a9-14fe-4d9f-ae05-8fbd973dea66")
 		(property "Reference" "TP9"
-			(at 91.44 133.3499 90)
+			(at 164.465 71.7549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4126,7 +4130,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 91.44 135.8899 90)
+			(at 164.465 74.2949 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4137,7 +4141,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 86.36 139.7 0)
+			(at 159.385 78.105 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4148,7 +4152,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 139.7 0)
+			(at 159.385 78.105 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4159,7 +4163,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 86.36 134.62 0)
+			(at 159.385 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4170,7 +4174,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4181,7 +4185,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4192,7 +4196,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4203,7 +4207,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4214,7 +4218,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4225,7 +4229,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4236,7 +4240,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4247,7 +4251,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 86.36 134.62 90)
+			(at 159.385 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4271,7 +4275,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Bridged")
-		(at 165.1 166.37 0)
+		(at 148.59 97.155 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4282,7 +4286,7 @@
 		(fields_autoplaced yes)
 		(uuid "220b3d09-9dc3-4f75-b703-3f12a1e8d52d")
 		(property "Reference" "JP1"
-			(at 165.1 161.29 0)
+			(at 148.59 92.075 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4292,7 +4296,7 @@
 			)
 		)
 		(property "Value" "Jumper_2_Bridged"
-			(at 165.1 163.83 0)
+			(at 148.59 94.615 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4302,7 +4306,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4313,7 +4317,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4324,7 +4328,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4335,7 +4339,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4346,7 +4350,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4357,7 +4361,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4368,7 +4372,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4379,7 +4383,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4390,7 +4394,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4401,7 +4405,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4412,7 +4416,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 165.1 166.37 0)
+			(at 148.59 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4439,7 +4443,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 121.92 121.92 270)
+		(at 194.945 60.325 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4450,7 +4454,7 @@
 		(fields_autoplaced yes)
 		(uuid "22816328-03b7-4e30-8fc8-b0237bb4e1dc")
 		(property "Reference" "H2"
-			(at 125.73 120.6499 90)
+			(at 198.755 59.0549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4461,7 +4465,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 125.73 123.1899 90)
+			(at 198.755 61.5949 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4472,7 +4476,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
-			(at 121.92 121.92 0)
+			(at 194.945 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4483,7 +4487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 121.92 0)
+			(at 194.945 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4494,7 +4498,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 121.92 121.92 0)
+			(at 194.945 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4518,7 +4522,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 134.62 270)
+		(at 192.405 73.025 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4529,7 +4533,7 @@
 		(fields_autoplaced yes)
 		(uuid "2586f176-95df-4509-a1c2-f8846694d47a")
 		(property "Reference" "#PWR07"
-			(at 113.03 134.62 0)
+			(at 186.055 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4540,7 +4544,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 134.6199 90)
+			(at 188.595 73.0249 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4551,7 +4555,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 134.62 0)
+			(at 192.405 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4562,7 +4566,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 134.62 0)
+			(at 192.405 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4573,7 +4577,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 134.62 0)
+			(at 192.405 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4597,7 +4601,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 55.88 115.57 270)
+		(at 128.905 53.975 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4607,7 +4611,7 @@
 		(dnp no)
 		(uuid "2a908a4a-1a43-45f1-9782-aa525852f093")
 		(property "Reference" "TP1"
-			(at 60.96 114.2999 90)
+			(at 133.985 52.7049 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4618,7 +4622,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 60.96 116.8399 90)
+			(at 133.985 55.2449 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4629,7 +4633,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 55.88 120.65 0)
+			(at 128.905 59.055 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4640,7 +4644,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 120.65 0)
+			(at 128.905 59.055 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4651,7 +4655,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 55.88 115.57 0)
+			(at 128.905 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4662,7 +4666,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4673,7 +4677,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4684,7 +4688,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4695,7 +4699,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4706,7 +4710,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4717,7 +4721,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4728,7 +4732,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4739,7 +4743,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 55.88 115.57 90)
+			(at 128.905 53.975 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4763,7 +4767,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 266.7 140.97 0)
+		(at 254 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4773,7 +4777,7 @@
 		(dnp no)
 		(uuid "399eb41a-dafd-4c6f-89fc-44f1b2395aad")
 		(property "Reference" "#PWR012"
-			(at 266.7 147.32 0)
+			(at 254 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4784,7 +4788,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 269.748 144.272 0)
+			(at 257.048 117.602 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4794,7 +4798,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 140.97 0)
+			(at 254 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4805,7 +4809,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 140.97 0)
+			(at 254 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4816,7 +4820,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 266.7 140.97 0)
+			(at 254 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4840,7 +4844,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 115.57 270)
+		(at 192.405 53.975 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4851,7 +4855,7 @@
 		(fields_autoplaced yes)
 		(uuid "4374d50c-f448-4dc4-8d57-83d04e10bb6f")
 		(property "Reference" "#PWR04"
-			(at 113.03 115.57 0)
+			(at 186.055 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4862,7 +4866,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 115.5699 90)
+			(at 188.595 53.9749 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4873,7 +4877,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 115.57 0)
+			(at 192.405 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4884,7 +4888,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 115.57 0)
+			(at 192.405 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4895,7 +4899,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 115.57 0)
+			(at 192.405 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4919,7 +4923,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 55.88 134.62 270)
+		(at 128.905 73.025 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4930,7 +4934,7 @@
 		(fields_autoplaced yes)
 		(uuid "45d9c2d8-10f1-4d72-a711-300b06221595")
 		(property "Reference" "TP4"
-			(at 60.96 133.3499 90)
+			(at 133.985 71.7549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4941,7 +4945,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 60.96 135.8899 90)
+			(at 133.985 74.2949 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4952,7 +4956,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 55.88 139.7 0)
+			(at 128.905 78.105 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4963,7 +4967,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 139.7 0)
+			(at 128.905 78.105 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4974,7 +4978,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 55.88 134.62 0)
+			(at 128.905 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4985,7 +4989,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4996,7 +5000,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5007,7 +5011,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5018,7 +5022,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5029,7 +5033,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5040,7 +5044,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5051,7 +5055,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5062,7 +5066,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 55.88 134.62 90)
+			(at 128.905 73.025 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5086,7 +5090,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 55.88 121.92 270)
+		(at 128.905 60.325 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5097,7 +5101,7 @@
 		(fields_autoplaced yes)
 		(uuid "46063cde-86f6-417a-a487-9aa5294b43e3")
 		(property "Reference" "TP2"
-			(at 60.96 120.6499 90)
+			(at 133.985 59.0549 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5108,7 +5112,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 60.96 123.1899 90)
+			(at 133.985 61.5949 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5119,7 +5123,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 55.88 127 0)
+			(at 128.905 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5130,7 +5134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 127 0)
+			(at 128.905 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5141,7 +5145,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 55.88 121.92 0)
+			(at 128.905 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5152,7 +5156,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5163,7 +5167,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5174,7 +5178,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5185,7 +5189,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5196,7 +5200,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5207,7 +5211,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5218,7 +5222,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5229,7 +5233,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 55.88 121.92 90)
+			(at 128.905 60.325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5253,7 +5257,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 121.92 128.27 270)
+		(at 194.945 66.675 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5264,7 +5268,7 @@
 		(fields_autoplaced yes)
 		(uuid "48b718fb-7dd5-466c-85cd-d7b947eef3e5")
 		(property "Reference" "H3"
-			(at 125.73 126.9999 90)
+			(at 198.755 65.4049 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5275,7 +5279,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 125.73 129.5399 90)
+			(at 198.755 67.9449 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5286,7 +5290,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
-			(at 121.92 128.27 0)
+			(at 194.945 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5297,7 +5301,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 128.27 0)
+			(at 194.945 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5308,7 +5312,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 121.92 128.27 0)
+			(at 194.945 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5332,7 +5336,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 233.68 210.82 0)
+		(at 250.19 68.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5342,7 +5346,7 @@
 		(dnp no)
 		(uuid "49930ffb-5b60-4d5a-9697-667b90ed4cf3")
 		(property "Reference" "J2"
-			(at 241.808 211.328 0)
+			(at 258.318 69.088 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5353,7 +5357,7 @@
 			)
 		)
 		(property "Value" "turbine bus"
-			(at 228.346 204.216 0)
+			(at 244.856 61.976 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5365,7 +5369,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5376,7 +5380,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5387,7 +5391,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5398,7 +5402,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5409,7 +5413,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5420,7 +5424,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5431,7 +5435,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5442,7 +5446,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5453,7 +5457,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5464,7 +5468,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5475,7 +5479,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 233.68 210.82 0)
+			(at 250.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5508,7 +5512,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 208.28 160.02 0)
+		(at 195.58 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5518,7 +5522,7 @@
 		(dnp no)
 		(uuid "5256d687-5eb8-4d37-949d-80968f52592f")
 		(property "Reference" "R5"
-			(at 201.676 157.226 0)
+			(at 188.976 130.556 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5529,7 +5533,7 @@
 			)
 		)
 		(property "Value" "0.01"
-			(at 202.438 159.766 0)
+			(at 189.738 133.096 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5540,7 +5544,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 206.502 160.02 90)
+			(at 193.802 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5551,7 +5555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5562,7 +5566,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5573,7 +5577,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5584,7 +5588,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5595,7 +5599,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5606,7 +5610,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5617,7 +5621,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5628,7 +5632,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5639,7 +5643,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5650,7 +5654,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 208.28 160.02 0)
+			(at 195.58 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5677,7 +5681,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 223.52 215.9 90)
+		(at 240.03 73.66 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5687,7 +5691,7 @@
 		(dnp no)
 		(uuid "5a920e66-22f1-44b0-a7ee-ab22263c0406")
 		(property "Reference" "R8"
-			(at 237.49 216.154 90)
+			(at 254 73.914 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5697,7 +5701,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 224.028 215.9 90)
+			(at 240.538 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5707,7 +5711,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 223.52 217.678 90)
+			(at 240.03 75.438 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5718,7 +5722,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 215.9 0)
+			(at 240.03 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5729,7 +5733,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 223.52 215.9 0)
+			(at 240.03 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5740,7 +5744,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5751,7 +5755,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5762,7 +5766,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5773,7 +5777,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5784,7 +5788,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5795,7 +5799,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5806,7 +5810,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5817,7 +5821,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 223.52 215.9 90)
+			(at 240.03 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5844,7 +5848,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 121.92 115.57 270)
+		(at 194.945 53.975 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5855,7 +5859,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c3cecd2-831c-403d-b15c-8ef15697a285")
 		(property "Reference" "H1"
-			(at 125.73 114.2999 90)
+			(at 198.755 52.7049 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5866,7 +5870,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 125.73 116.8399 90)
+			(at 198.755 55.2449 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5877,7 +5881,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
-			(at 121.92 115.57 0)
+			(at 194.945 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5888,7 +5892,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 115.57 0)
+			(at 194.945 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5899,7 +5903,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 121.92 115.57 0)
+			(at 194.945 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5923,7 +5927,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 121.92 270)
+		(at 192.405 60.325 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5934,7 +5938,7 @@
 		(fields_autoplaced yes)
 		(uuid "60616803-39e2-43e8-9be1-f6b0269ee11d")
 		(property "Reference" "#PWR05"
-			(at 113.03 121.92 0)
+			(at 186.055 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5945,7 +5949,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 121.9199 90)
+			(at 188.595 60.3249 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5956,7 +5960,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 121.92 0)
+			(at 192.405 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5967,7 +5971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 121.92 0)
+			(at 192.405 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5978,7 +5982,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 121.92 0)
+			(at 192.405 60.325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6002,7 +6006,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 219.71 195.58 270)
+		(at 236.22 53.34 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6013,7 +6017,7 @@
 		(fields_autoplaced yes)
 		(uuid "69857b9b-5323-4276-bd9a-9fca377dc5e0")
 		(property "Reference" "#PWR09"
-			(at 213.36 195.58 0)
+			(at 229.87 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6024,7 +6028,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 195.5799 90)
+			(at 232.41 53.3399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6035,7 +6039,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 219.71 195.58 0)
+			(at 236.22 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6046,7 +6050,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 219.71 195.58 0)
+			(at 236.22 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6057,7 +6061,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 219.71 195.58 0)
+			(at 236.22 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6081,7 +6085,7 @@
 	)
 	(symbol
 		(lib_id "ina260aipwr:INA260AIPWR")
-		(at 229.87 158.75 0)
+		(at 217.17 132.08 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6092,7 +6096,7 @@
 		(fields_autoplaced yes)
 		(uuid "8da70a02-c7a6-484b-8d48-29380105f96a")
 		(property "Reference" "U1"
-			(at 229.87 133.35 0)
+			(at 217.17 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6102,7 +6106,7 @@
 			)
 		)
 		(property "Value" "INA260AIPWR"
-			(at 229.87 135.89 0)
+			(at 217.17 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6112,7 +6116,7 @@
 			)
 		)
 		(property "Footprint" "footprints:ina260"
-			(at 229.87 158.75 0)
+			(at 217.17 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6124,7 +6128,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/gpn/ina260"
-			(at 229.87 158.75 0)
+			(at 217.17 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6136,7 +6140,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 229.87 158.75 0)
+			(at 217.17 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6205,7 +6209,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 256.54 144.78 0)
+		(at 243.84 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6215,7 +6219,7 @@
 		(dnp no)
 		(uuid "98516b4a-117b-433d-aecc-be9a1f226226")
 		(property "Reference" "R10"
-			(at 258.572 145.796 90)
+			(at 245.872 119.126 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6226,7 +6230,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 256.54 146.558 90)
+			(at 243.84 119.888 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6237,7 +6241,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 254.762 144.78 90)
+			(at 242.062 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6248,7 +6252,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 144.78 0)
+			(at 243.84 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6259,7 +6263,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 256.54 144.78 0)
+			(at 243.84 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6270,7 +6274,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6281,7 +6285,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6292,7 +6296,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6303,7 +6307,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6314,7 +6318,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6325,7 +6329,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6336,7 +6340,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6347,7 +6351,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 256.54 144.78 90)
+			(at 243.84 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6374,7 +6378,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 223.52 213.36 90)
+		(at 240.03 71.12 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6384,7 +6388,7 @@
 		(dnp no)
 		(uuid "98b2dfe4-034e-465c-86b3-4f2c59da8c5a")
 		(property "Reference" "R7"
-			(at 237.49 213.614 90)
+			(at 254 71.374 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6394,7 +6398,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 224.028 213.36 90)
+			(at 240.538 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6404,7 +6408,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 223.52 215.138 90)
+			(at 240.03 72.898 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6415,7 +6419,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 213.36 0)
+			(at 240.03 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6426,7 +6430,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 223.52 213.36 0)
+			(at 240.03 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6437,7 +6441,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6448,7 +6452,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6459,7 +6463,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6470,7 +6474,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6481,7 +6485,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6492,7 +6496,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6503,7 +6507,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6514,7 +6518,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 223.52 213.36 90)
+			(at 240.03 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6541,7 +6545,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 250.19 161.29 90)
+		(at 237.49 134.62 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6552,7 +6556,7 @@
 		(fields_autoplaced yes)
 		(uuid "a221c52e-64ea-4952-b53b-2176f0cfdd6b")
 		(property "Reference" "#PWR010"
-			(at 256.54 161.29 0)
+			(at 243.84 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6563,7 +6567,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 254 161.2899 90)
+			(at 241.3 134.6199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6574,7 +6578,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 161.29 0)
+			(at 237.49 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6585,7 +6589,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 161.29 0)
+			(at 237.49 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6596,7 +6600,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 250.19 161.29 0)
+			(at 237.49 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6620,7 +6624,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 260.35 149.86 180)
+		(at 247.65 123.19 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6630,7 +6634,7 @@
 		(dnp no)
 		(uuid "b28950de-54c6-426f-8f71-eb69cc9ee3cc")
 		(property "Reference" "R11"
-			(at 262.636 150.622 90)
+			(at 249.936 123.952 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6641,7 +6645,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 260.35 151.384 90)
+			(at 247.65 124.714 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6652,7 +6656,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 262.128 149.86 90)
+			(at 249.428 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6663,7 +6667,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 149.86 0)
+			(at 247.65 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6674,7 +6678,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 260.35 149.86 0)
+			(at 247.65 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6685,7 +6689,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6696,7 +6700,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6707,7 +6711,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6718,7 +6722,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6729,7 +6733,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6740,7 +6744,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6751,7 +6755,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6762,7 +6766,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 260.35 149.86 90)
+			(at 247.65 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6789,7 +6793,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Module:Arduino_Nano_Every")
-		(at 154.94 195.58 0)
+		(at 138.43 126.365 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6800,7 +6804,7 @@
 		(fields_autoplaced yes)
 		(uuid "c65fd10e-58b4-4140-847a-7b517ad911e1")
 		(property "Reference" "A1"
-			(at 157.0833 220.98 0)
+			(at 140.5733 151.765 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6811,7 +6815,7 @@
 			)
 		)
 		(property "Value" "Arduino_Nano_Every"
-			(at 157.0833 223.52 0)
+			(at 140.5733 154.305 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6822,7 +6826,7 @@
 			)
 		)
 		(property "Footprint" "Module:Arduino_Nano"
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6834,7 +6838,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.arduino.cc/assets/NANOEveryV3.0_sch.pdf"
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6845,7 +6849,7 @@
 			)
 		)
 		(property "Description" "Arduino Nano Every"
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6856,7 +6860,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6867,7 +6871,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6878,7 +6882,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6889,7 +6893,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6900,7 +6904,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6911,7 +6915,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6922,7 +6926,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6933,7 +6937,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 154.94 195.58 0)
+			(at 138.43 126.365 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7044,7 +7048,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 250.19 171.45 90)
+		(at 237.49 144.78 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7055,7 +7059,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce72e030-aa10-4784-9c0f-12df881f023c")
 		(property "Reference" "#PWR011"
-			(at 256.54 171.45 0)
+			(at 243.84 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7066,7 +7070,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 254 171.4499 90)
+			(at 241.3 144.7799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7077,7 +7081,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 171.45 0)
+			(at 237.49 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7088,7 +7092,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 171.45 0)
+			(at 237.49 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7099,7 +7103,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 250.19 171.45 0)
+			(at 237.49 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7123,7 +7127,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 224.79 0)
+		(at 138.43 155.575 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7134,7 +7138,7 @@
 		(fields_autoplaced yes)
 		(uuid "d329aea2-ce2f-494d-805a-212592fa36b9")
 		(property "Reference" "#PWR08"
-			(at 154.94 231.14 0)
+			(at 138.43 161.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7145,7 +7149,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 229.87 0)
+			(at 138.43 160.655 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7155,7 +7159,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 224.79 0)
+			(at 138.43 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7166,7 +7170,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 224.79 0)
+			(at 138.43 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7177,7 +7181,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 224.79 0)
+			(at 138.43 155.575 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7201,7 +7205,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 266.7 137.16 180)
+		(at 254 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7212,7 +7216,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc49b85c-55e9-4a2e-a606-800b61510ce3")
 		(property "Reference" "C2"
-			(at 270.51 135.8899 0)
+			(at 257.81 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7223,7 +7227,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 270.51 138.4299 0)
+			(at 257.81 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7234,7 +7238,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 265.7348 133.35 0)
+			(at 253.0348 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7245,7 +7249,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7256,7 +7260,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7267,7 +7271,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7278,7 +7282,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7289,7 +7293,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7300,7 +7304,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7311,7 +7315,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7322,7 +7326,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7333,7 +7337,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7344,7 +7348,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 266.7 137.16 0)
+			(at 254 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7371,7 +7375,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 86.36 128.27 270)
+		(at 159.385 66.675 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7382,7 +7386,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1fad730-c006-4a6f-8807-3689adcd7953")
 		(property "Reference" "TP8"
-			(at 91.44 126.9999 90)
+			(at 164.465 65.4049 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7393,7 +7397,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 91.44 129.5399 90)
+			(at 164.465 67.9449 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7404,7 +7408,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 86.36 133.35 0)
+			(at 159.385 71.755 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7415,7 +7419,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 133.35 0)
+			(at 159.385 71.755 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7426,7 +7430,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 86.36 128.27 0)
+			(at 159.385 66.675 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7437,7 +7441,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7448,7 +7452,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7459,7 +7463,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7470,7 +7474,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7481,7 +7485,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7492,7 +7496,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7503,7 +7507,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7514,7 +7518,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 86.36 128.27 90)
+			(at 159.385 66.675 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7538,7 +7542,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 223.52 210.82 90)
+		(at 240.03 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7548,7 +7552,7 @@
 		(dnp no)
 		(uuid "f4a39298-d37e-4f5a-9ec0-70e16ac0b3b7")
 		(property "Reference" "R6"
-			(at 237.49 211.074 90)
+			(at 254 68.834 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7558,7 +7562,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 224.028 210.82 90)
+			(at 240.538 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7568,7 +7572,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 223.52 212.598 90)
+			(at 240.03 70.358 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7579,7 +7583,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 210.82 0)
+			(at 240.03 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7590,7 +7594,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 223.52 210.82 0)
+			(at 240.03 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7601,7 +7605,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7612,7 +7616,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7623,7 +7627,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7634,7 +7638,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7645,7 +7649,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7656,7 +7660,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7667,7 +7671,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7678,7 +7682,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 223.52 210.82 90)
+			(at 240.03 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7705,7 +7709,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 250.19 137.16 180)
+		(at 237.49 110.49 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7715,7 +7719,7 @@
 		(dnp no)
 		(uuid "f6bca706-8620-4e68-a9f0-24a3c6bd5f1e")
 		(property "Reference" "R9"
-			(at 248.158 136.144 90)
+			(at 235.458 109.474 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7726,7 +7730,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 252.73 135.89 90)
+			(at 240.03 109.22 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7737,7 +7741,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 251.968 137.16 90)
+			(at 239.268 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7748,7 +7752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 137.16 0)
+			(at 237.49 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7759,7 +7763,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 250.19 137.16 0)
+			(at 237.49 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7770,7 +7774,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7781,7 +7785,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7792,7 +7796,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7803,7 +7807,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7814,7 +7818,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7825,7 +7829,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7836,7 +7840,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7847,7 +7851,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 250.19 137.16 90)
+			(at 237.49 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7873,7 +7877,7 @@
 		)
 	)
 	(sheet
-		(at 110.49 241.3)
+		(at 183.515 179.705)
 		(size 39.37 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7889,7 +7893,7 @@
 		)
 		(uuid "051db551-37ba-48d3-b0ad-7f9dafe3dcf8")
 		(property "Sheetname" "Charger and boost"
-			(at 110.49 240.5884 0)
+			(at 183.515 178.9934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7900,7 +7904,7 @@
 			)
 		)
 		(property "Sheetfile" "charger&boost.kicad_sch"
-			(at 110.49 263.4746 0)
+			(at 183.515 201.8796 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7919,7 +7923,7 @@
 		)
 	)
 	(sheet
-		(at 156.21 241.3)
+		(at 229.235 179.705)
 		(size 38.1 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7935,7 +7939,7 @@
 		)
 		(uuid "ec32d28e-baf1-4e35-a006-88935f513511")
 		(property "Sheetname" "Holdup Control"
-			(at 156.21 240.5884 0)
+			(at 229.235 178.9934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7946,7 +7950,7 @@
 			)
 		)
 		(property "Sheetfile" "holdup.kicad_sch"
-			(at 156.21 263.4746 0)
+			(at 229.235 201.8796 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7965,7 +7969,7 @@
 		)
 	)
 	(sheet
-		(at 40.64 241.3)
+		(at 113.665 179.705)
 		(size 30.48 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7981,7 +7985,7 @@
 		)
 		(uuid "f2557574-66dd-4701-8edd-c4162dfede63")
 		(property "Sheetname" "Power Input"
-			(at 40.64 240.5884 0)
+			(at 113.665 178.9934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7992,7 +7996,7 @@
 			)
 		)
 		(property "Sheetfile" "powerinput.kicad_sch"
-			(at 40.64 263.4746 0)
+			(at 113.665 201.8796 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8011,7 +8015,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 241.3)
+		(at 149.225 179.705)
 		(size 26.67 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8027,7 +8031,7 @@
 		)
 		(uuid "f80bf903-2528-4a83-ba78-cb1136b6f99f")
 		(property "Sheetname" "Regulators"
-			(at 76.2 240.5884 0)
+			(at 149.225 178.9934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8038,7 +8042,7 @@
 			)
 		)
 		(property "Sheetfile" "regulators.kicad_sch"
-			(at 76.2 263.4746 0)
+			(at 149.225 201.8796 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

@@ -1476,7 +1476,7 @@
 			)
 		)
 	)
-	(global_label "5V_LOGIC"
+	(global_label "5V_ACT"
 		(shape output)
 		(at 96.52 74.93 0)
 		(fields_autoplaced yes)
@@ -1486,9 +1486,9 @@
 			)
 			(justify left)
 		)
-		(uuid "13e9e324-eb07-4cd5-8d70-699035897337")
+		(uuid "43f1422d-738e-41f2-ab8f-4ffc94bbcdae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 108.2743 74.93 0)
+			(at 106.0971 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
