@@ -20,4 +20,5 @@
 	(lib (name "TSR1-4850WI") (type "KiCad") (uri "${KIPRJMOD}/symbol/TSR1-4850WI.kicad_sym") (options "") (descr ""))
 	(lib (name "MF-MSMF050-2") (type "KiCad") (uri "${KIPRJMOD}/symbol/MF-MSMF050-2.kicad_sym") (options "") (descr ""))
 	(lib (name "ina260aipwr") (type "KiCad") (uri "${KIPRJMOD}/symbol/ina260aipwr.kicad_sym") (options "") (descr ""))
+	(lib (name "LM66100DCKR") (type "KiCad") (uri "${KIPRJMOD}/symbol/LM66100DCKR.kicad_sym") (options "") (descr ""))
 )

@@ -2143,22 +2143,22 @@
 		(uuid "027fbe07-01e2-48bc-b99c-f102bac6a515")
 	)
 	(junction
-		(at 195.58 137.16)
+		(at 199.39 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "413f905c-a48f-470a-8265-b9f13d61a5c4")
+		(uuid "362b9195-c93f-4474-a10e-28bb005c206f")
+	)
+	(junction
+		(at 199.39 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b973160-3bf4-4da0-8bc7-9131a28a9ded")
 	)
 	(junction
 		(at 254 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d172593-7772-4f8c-831f-1ca1d04880f8")
-	)
-	(junction
-		(at 195.58 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55446024-c844-4b48-902e-3d5d2cab8662")
 	)
 	(junction
 		(at 243.84 104.14)
@@ -2179,6 +2179,12 @@
 		(uuid "98ccf952-47c8-486a-9b6b-3e299526cb9f")
 	)
 	(junction
+		(at 199.39 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "999a9b68-b1e6-4de1-9a49-ed1998390402")
+	)
+	(junction
 		(at 237.49 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2191,6 +2197,12 @@
 		(uuid "d3fc3462-049b-476b-a3fc-71a517229439")
 	)
 	(junction
+		(at 199.39 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee292ae4-a34d-4a09-bfba-e87c4f6a2dea")
+	)
+	(junction
 		(at 247.65 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2199,10 +2211,6 @@
 	(no_connect
 		(at 125.73 131.445)
 		(uuid "1276a37e-c6dc-4407-88ed-74a9fdd2da0f")
-	)
-	(no_connect
-		(at 199.39 132.08)
-		(uuid "58fea842-7432-446b-a4fe-bc435f1922fa")
 	)
 	(no_connect
 		(at 151.13 111.125)
@@ -2219,10 +2227,6 @@
 	(no_connect
 		(at 125.73 106.045)
 		(uuid "747cba11-3fe7-403f-a587-b67f332c2050")
-	)
-	(no_connect
-		(at 199.39 142.24)
-		(uuid "77bd88e3-c94e-460f-983e-3ceff9909c46")
 	)
 	(no_connect
 		(at 125.73 108.585)
@@ -2253,10 +2257,6 @@
 		(uuid "b30c7640-5fdc-416a-8fc8-6ebe653f6793")
 	)
 	(no_connect
-		(at 199.39 139.7)
-		(uuid "bcb49968-cf6a-423a-8900-a345e40faa85")
-	)
-	(no_connect
 		(at 125.73 128.905)
 		(uuid "bd38988f-eb97-4f1c-8f47-a779df603b39")
 	)
@@ -2271,10 +2271,6 @@
 	(no_connect
 		(at 125.73 116.205)
 		(uuid "eb635b9f-9b23-4922-ab45-27303969c963")
-	)
-	(no_connect
-		(at 199.39 129.54)
-		(uuid "f0ba996c-441f-4bc4-8fac-ccd34c4b6af8")
 	)
 	(no_connect
 		(at 199.39 147.32)
@@ -2322,7 +2318,17 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 127) (xy 195.58 127)
+			(xy 199.39 137.16) (xy 199.39 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1be36465-f5a7-4e51-a57a-1b41c92bd038")
+	)
+	(wire
+		(pts
+			(xy 187.96 127) (xy 199.39 127)
 		)
 		(stroke
 			(width 0)
@@ -2342,16 +2348,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 127) (xy 199.39 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a45bbf4-dc9e-4587-a022-edd38aca3ef1")
-	)
-	(wire
-		(pts
 			(xy 233.68 68.58) (xy 236.22 68.58)
 		)
 		(stroke
@@ -2359,16 +2355,6 @@
 			(type default)
 		)
 		(uuid "2d6691d1-fbfb-4e44-ac9a-fe47a5af8b59")
-	)
-	(wire
-		(pts
-			(xy 195.58 137.16) (xy 199.39 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "342ebefa-4c92-4a2c-88f0-b66b82709fa5")
 	)
 	(wire
 		(pts
@@ -2399,6 +2385,16 @@
 			(type default)
 		)
 		(uuid "4e3caa47-3680-4185-b3d6-ec3aa79c5d34")
+	)
+	(wire
+		(pts
+			(xy 199.39 139.7) (xy 199.39 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50af6642-854e-4e7b-9c0e-912d4b4955db")
 	)
 	(wire
 		(pts
@@ -2479,6 +2475,16 @@
 			(type default)
 		)
 		(uuid "7e4c8c19-9541-4707-8227-2b65fe04a94f")
+	)
+	(wire
+		(pts
+			(xy 199.39 127) (xy 199.39 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ec016b9-2efa-4b60-af3f-900470bff2aa")
 	)
 	(wire
 		(pts
@@ -2582,13 +2588,13 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 127) (xy 195.58 129.54)
+			(xy 199.39 129.54) (xy 199.39 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c59e06ff-ced8-4f48-a138-e568424eb41d")
+		(uuid "c33328fa-db29-45cb-bc62-f99b036b0789")
 	)
 	(wire
 		(pts
@@ -2602,7 +2608,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 137.16) (xy 195.58 137.16)
+			(xy 187.96 137.16) (xy 199.39 137.16)
 		)
 		(stroke
 			(width 0)
@@ -5505,175 +5511,6 @@
 			(project "HSWET_PCB"
 				(path "/82d46295-621f-4df3-b604-ae215ede48d5"
 					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 195.58 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5256d687-5eb8-4d37-949d-80968f52592f")
-		(property "Reference" "R5"
-			(at 188.976 130.556 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.01"
-			(at 189.738 133.096 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 193.802 133.35 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Part_Number" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "SNAPEDA_PN" ""
-			(at 195.58 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "20b98ac4-fbf5-484e-ad72-398667f61fe1")
-		)
-		(pin "2"
-			(uuid "ba86073a-49a7-40d8-aa79-cd5520ad666e")
-		)
-		(instances
-			(project "HSWET_PCB"
-				(path "/82d46295-621f-4df3-b604-ae215ede48d5"
-					(reference "R5")
 					(unit 1)
 				)
 			)

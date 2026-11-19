@@ -550,8 +550,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "Default",
@@ -853,7 +853,7 @@
         "uuid": "82d46295-621f-4df3-b604-ae215ede48d5"
       }
     ],
-    "used_designators": "#PWR1-39,A1,C1-13,C15-17,D1-5,D7-8,F1,H1-4,J1-6,J12,JP1,L1-2,PS1-2,Q1-2,R1-24,SW1,TP1-9,U1-8",
+    "used_designators": "A1,#PWR1-51,D1-8,Q1-2,U1-9,C1-19,SW1,J1-6,J12,H1-4,R1-24,JP1,PS1-2,L1-2,F1,TP1-9",
     "variants": []
   },
   "sheets": [
